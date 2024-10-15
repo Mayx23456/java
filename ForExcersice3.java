@@ -25,7 +25,12 @@
 public class ForExcersice3 {
     public static void main(String[] args) {
         String yourName = "Mayukh";
-        System.out.println(yourName.length());
+        System.out.println(yourName.lengt());
+
+        System.out.println("Warning!!!");
+        System.out.println("Danger");
+
+
 
         
 
